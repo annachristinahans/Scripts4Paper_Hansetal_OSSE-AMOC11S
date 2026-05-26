@@ -1,0 +1,63 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Scripts used in: "Evaluating Transport Observations of the
+  Atlantic Meridional Overturning Circulation at 11°S Using
+  an Ocean Model"
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Anna Christina
+    family-names: Hans
+    email: ahans@geomar.de
+    affiliation: >-
+      GEOMAR Helmholtz Centre for Ocean Research Kiel
+    orcid: 'https://orcid.org/0000-0002-6118-6959'
+  - given-names: Rebecca
+    family-names: Hummels
+    email: rhummels@geomar.de
+    affiliation: >-
+      GEOMAR Helmholtz Centre for Ocean Research Kiel
+    orcid: 'https://orcid.org/0000-0002-3746-6213'
+  - given-names: Peter
+    family-names: Brandt
+    email: pbrandt@geomar.de
+    affiliation: >-
+      GEOMAR Helmholtz Centre for Ocean Research Kiel
+    orcid: 'https://orcid.org/0000-0002-9235-955X'
+  - given-names: Franziska U.
+    family-names: Schwarzkopf
+    email: fschwarzkopf@geomar.de
+    affiliation: >-
+      GEOMAR Helmholtz Centre for Ocean Research Kiel
+    orcid: 'https://orcid.org/0000-0002-2747-8456'
+  - given-names: Stephan
+    family-names: Juricke
+    email: sjuricke@geomar.de
+    affiliation: >-
+      GEOMAR Helmholtz Centre for Ocean Research Kiel
+    orcid: 'https://orcid.org/0000-0003-4614-2509'
+identifiers:
+  - type: doi
+    value: 10.3289/SW_3_2026
+repository-code: >-
+  https://github.com/annachristinahans/Scripts4Paper_Hansetal_OSSE-AMOC11S
+abstract: >-
+  Abstract: These are the scripts used for the analyses and
+  figures in Hans et al. (2026) "Evaluating Transport
+  Observations of the Atlantic Meridional Overturning
+  Circulation at 11°S Using an Ocean Model". The study
+  mimics an observational array at 11°S in a high-resolution
+  ocean model to assess the capability of the array to
+  compute the temporal variability of the Atlantic
+  Meridional Overturning Circulation. Accordingly, an
+  observing system simulation experiment is carried out.
+  Various observational approaches are tested based on
+  subsampled bottom pressure recorders, subsampled moored
+  temperature and salinity sensors, and subsampled inverted
+  echo sounders.
+license: MIT
