@@ -48,7 +48,7 @@ These are the scripts used for the analyses and figures in Hans et al. (2026) "E
 ## Additional remarks:
 For 1), CDFTOOLS is required. For 2) the seawater library is required. For 4), the colour maps cmocean and Scientific colour maps are required. All references are given in the manuscript. Except for the two bash files, the code is written in MATLAB_R2021b.
 
-The scripts require the following data sets (link provided with the manuscript):  
+The scripts require the following data sets ([link to data](https://hdl.handle.net/20.500.12085/f72c4932-6132-4f98-a7c1-2cdd9c1c377f)):  
   - 1_VIKING20X.L46-KFS003_1d_${YYYY}0101_${YYYY}1231_detrendedSSH_11S_box.nc  
   - 1_VIKING20X.L46-KFS003_1d_${YYYY}0101_${YYYY}1231_grid_T_11S_box.nc  
   - 1_VIKING20X.L46-KFS003_1d_${YYYY}0101_${YYYY}1231_grid_U_11S_box.nc  
